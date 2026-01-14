@@ -1,7 +1,9 @@
 # Soldering 101
 Hello there! Welcome on the very first guide on how to make electrical stuff for your fursuit (even tho it can be applied to may other things, i.e. cosplay)!
 
-Each "module" in this guide covers different topics. 
+Each "module" in this guide covers different topics. Feel free to focus only on what you're interested in, they're written in a way that doesn't require following every single one of them.
+
+HOWEVER! If this is your fist time soldering and don't know anything about what kind of soldering iron, solder material, ..., I highly suggest you to read the [Getting Started](./Getting_Started) module.
 
 # About me
 My name's Prism (also known online as hctel). I've been studying electrical engineering since 2022, mostly interested in circuit boards and embedded software. Soldering's one of the first hands-on skills I learned through my studies.
